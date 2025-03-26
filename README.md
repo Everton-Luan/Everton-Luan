@@ -9,7 +9,7 @@ Me chamo Everton, tenho 19 anos e resido atualmente em Pernambuco, cursando bach
             src="https://custom-icon-badges.demolab.com/github/stars/Gabriel-Eric08?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Gabriel-Eric08?tab=followers">
+    <a href="(https://github.com/Everton-Luan?tab=followers)">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
