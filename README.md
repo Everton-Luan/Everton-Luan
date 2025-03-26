@@ -1,7 +1,6 @@
-# 👩🏻‍💻 Gabriel Eric
-**Desenvolvedor back-end**
+# 👩🏻‍💻 Everton Luan
 
-Me chamo Gabriel, tenho 18 anos e moro em Pernambuco. Atualmente, estou cursando Licenciatura em computação na UFRPE.
+Me chamo Everton, tenho 19 anos e moro em Pernambuco. Atualmente, estou cursando bacharelado em ciência da computação na UFRPE.
 <p align="left">
     <a href="https://github.com/Gabriel-Eric08?tab=repositories&sort=stargazers">
         <img 
