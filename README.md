@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Everton Luan
 
-Me chamo Everton, tenho 19 anos e moro em Pernambuco. Atualmente, estou cursando bacharelado em ciência da computação na UFRPE.
+Me chamo Everton, tenho 19 anos e resido atualmente em Pernambuco, cursando bacharelado em ciências da computação pela UFRPE.
 <p align="left">
     <a href="https://github.com/Gabriel-Eric08?tab=repositories&sort=stargazers">
         <img 
